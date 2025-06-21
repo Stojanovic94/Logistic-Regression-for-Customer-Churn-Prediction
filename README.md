@@ -9,6 +9,9 @@ Link: [https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers](https:/
 
 We use `kagglehub` to automatically download the dataset.
 
+![](image-1.png)
+![](image-2.png)
+
 ## 🛠️ Tech Stack
 
 - Python 3.x
